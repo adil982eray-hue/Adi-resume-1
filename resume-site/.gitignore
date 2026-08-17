@@ -1,0 +1,94 @@
+# Git ignore file - ADI Digital World Website
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+.project
+.classpath
+*.sublime-project
+*.sublime-workspace
+
+# Node/npm Files (if using npm tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build & Compilation
+dist/
+build/
+*.compiled.js
+*.compiled.css
+
+# Backup Files
+*.bak
+*.backup
+*.old
+*_old
+*_backup
+~*
+.backup/
+
+# Log Files
+*.log
+logs/
+
+# Cache Files
+.cache/
+*.cache
+.vuepress/dist
+
+# Environment Variables (never commit secrets!)
+.env
+.env.local
+.env.*.local
+
+# Temporary Files
+temp/
+tmp/
+*.tmp
+*.temp
+
+# OS-Specific
+.AppleDouble
+.LSOverride
+
+# Project-Specific Backups
+index_old.html
+styles_old.css
+script_old.js
+index_backup*.html
+styles_backup*.css
+script_backup*.js
+
+# Testing
+coverage/
+.nyc_output/
+
+# Documentation Build
+docs/_build/
+
+# Misc
+.history/
+.vscode-server/
+
+# Do NOT ignore these important files:
+# !.gitkeep
+# !README.md
+# !IMPLEMENTATION_GUIDE.md

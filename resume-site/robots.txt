@@ -1,0 +1,23 @@
+# Robots.txt for ADI Digital World Website
+# This file tells search engines which pages to crawl
+
+# Allow all bots
+User-agent: *
+Allow: /
+Disallow: /temp/
+Disallow: /backup/
+Disallow: /admin/
+Disallow: /*.json$
+Disallow: /*.xml$
+
+# Specific bot rules (optional)
+# User-agent: Googlebot
+# Allow: /
+
+# Crawl delay (optional - slow down bots)
+# Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://your-domain.com/sitemap.xml
+
+# Note: Replace "your-domain.com" with your actual domain

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage - Highest Priority -->
+  <url>
+    <loc>https://your-domain.com/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Services Page -->
+  <url>
+    <loc>https://your-domain.com/services.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Digital Marketing Service -->
+  <url>
+    <loc>https://your-domain.com/services/digital-marketing.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Software Development Service -->
+  <url>
+    <loc>https://your-domain.com/services/software-development.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IT Consulting Service -->
+  <url>
+    <loc>https://your-domain.com/services/it-consulting.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Graphics & Brand Design Service -->
+  <url>
+    <loc>https://your-domain.com/services/graphics-design.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Portfolio Page -->
+  <url>
+    <loc>https://your-domain.com/portfolio.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>bi-weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Case Study 1 -->
+  <url>
+    <loc>https://your-domain.com/portfolio/case-study-1.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Case Study 2 -->
+  <url>
+    <loc>https://your-domain.com/portfolio/case-study-2.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Case Study 3 -->
+  <url>
+    <loc>https://your-domain.com/portfolio/case-study-3.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://your-domain.com/about.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Blog Page -->
+  <url>
+    <loc>https://your-domain.com/blog.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://your-domain.com/contact.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Privacy Policy -->
+  <url>
+    <loc>https://your-domain.com/privacy.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Terms of Service -->
+  <url>
+    <loc>https://your-domain.com/terms.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
+
+<!-- 
+INSTRUCTIONS:
+1. Replace "your-domain.com" with your actual domain
+2. Update lastmod dates as you update pages
+3. Adjust priority (0.0-1.0) based on importance
+4. Adjust changefreq (always, hourly, daily, weekly, monthly, yearly, never)
+5. Upload this file to your root directory (/sitemap.xml)
+6. Submit to Google Search Console: https://search.google.com/search-console
+7. Submit to Bing Webmaster: https://www.bing.com/webmasters
+-->
